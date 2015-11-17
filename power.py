@@ -1,2 +1,2 @@
-def power(x)
+def power(x):
     return x**2
